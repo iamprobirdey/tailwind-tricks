@@ -20,6 +20,9 @@ module.exports = {
         }
       }
     },
+    screens: {
+      xs: '540px'
+    }
   },
   plugins: [
     require('@tailwindcss/typography'),
